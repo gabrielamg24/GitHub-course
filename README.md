@@ -71,7 +71,7 @@ Internet hosting service for git repositories, work on multiple computers, worki
 2. 	copy the URL link of the image, either from the red or from within github 
 3.	puting the image in () after the text: ![Alt text]
 
-###How to use 
+###How to use in Peregre
 1.Create account on github
 2.create repository 
 3.go onto terminal and onto peregrine 
