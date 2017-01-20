@@ -2,7 +2,7 @@
 Program version control on local computer  creates repository with all files 
 Internet hosting service for git repositories, work on multiple computers, working from any computer connecting to the internet
 
-GitHub
+###GitHub
 1.	Create github project
 2.	The first time clone the repository into the computer, all the other times “git pull” is used to copy files into computer
 3.	Once you have edited your file in the local computer then it is committed into github again 
@@ -10,17 +10,17 @@ GitHub
 5.	Branching: 
 6.	Github 
 
-Ask to be a collaborator
+###Ask to be a collaborator
 1.	Go to the page of the project
 2.	Go to issues tab
 3.	New issue: can I be a collaborator? 
 
-Be a friend
+###Be a friend
 1.	Go to github principal page
 2.	Search the username
 3.	follow
 
-Creat a to-do list 
+###Create a to-do list 
 1.	Go to gist.github.com
 2.	Create new list
 3.	Use code
@@ -30,7 +30,7 @@ Creat a to-do list
 - [ ] hw
 - [x] clean
 
-Fork a repository
+###Fork a repository
 1.	Go to the person’s account
 2.	Top right  fork
 3.	Takes a couple of seconds
@@ -38,25 +38,25 @@ Fork a repository
 5.	Copy url 
 6.	Git clone the url in your terminal
 
-Create a license 
+###Create a license 
 1.	Go to the repository
 2.	Create a new file
 3.	Name it license.txt
 4.	Choose a license: GNU GENERAL PUBLIC LICENSE
 5.	Commit file into the master branch
  
-Create a Gitignore
+###Create a Gitignore
 1.	Go to the repository
 2.	Create a new file
 3.	Name it touch.gitignore
 4.	Copy code from https://gist.github.com/octocat/9257657
 5.	Commit file into the master branch
 
-Starring projects
+###Starring projects
 1.	Go to an account or find a project
 2.	Click the little star
 
-How to use 
+###How to use 
 1.Create account on github
 2.create repository 
 3.go onto terminal and onto peregrine 
@@ -71,16 +71,16 @@ How to use
 >git push
 >git pull
 >SST git status
-#When you go to github and create a new file then you go back to your terminal and 
+When you go to github and create a new file then you go back to your terminal and 
 >git commit -m "MESSAGE"
 >git pull
-#On the github webpage you request to be a collaborator, once you have received the mail and accepted the invitation then you can go to your terminal and clone it, then pull it, then edit, then push it. 
+On the github webpage you request to be a collaborator, once you have received the mail and accepted the invitation then you can go to your terminal and clone it, then pull it, then edit, then push it. 
 >git clone https://github.com/Lumphie/Fairytale_test.git
 >cd Fairytale_test
 >git pull
-#Edit the files from your computer
+Edit the files from your computer
 >git push 
-#On github create a license https://help.github.com/articles/adding-a-license-to-a-repository/ and a gitignore https://help.github.com/articles/ignoring-files/ , these were created in a branch and not in the master branch, soooo go to terminal 
+On github create a license https://help.github.com/articles/adding-a-license-to-a-repository/ and a gitignore https://help.github.com/articles/ignoring-files/ , these were created in a branch and not in the master branch, soooo go to terminal 
 >git pull
 >git checkout  gabrielamg24-patch-1
 >ll (to check files are there) 
