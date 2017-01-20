@@ -15,6 +15,12 @@ Internet hosting service for git repositories, work on multiple computers, worki
 2.	Go to issues tab
 3.	New issue: can I be a collaborator? 
 
+###Add a collaborator
+1.	Within the repository
+2.	Go to Settings
+3.	Go to collaborators
+4.	Add a person by username or e-mail 
+
 ###Be a friend
 1.	Go to github principal page
 2.	Search the username
