@@ -60,6 +60,10 @@ Internet hosting service for git repositories, work on multiple computers, worki
 
 ![Alt text](https://github.com/gabrielamg24/GitHub-course/blob/images/stars1.png)
 
+###Adding an image to a .md
+1.	Open the file 
+2. 	copy the URL link of the image, either from the red or from within github 
+3.	puting the image in () after the text: ![Alt text]
 
 ###How to use 
 1.Create account on github
