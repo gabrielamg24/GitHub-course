@@ -44,6 +44,7 @@ Internet hosting service for git repositories, work on multiple computers, worki
 3.	Name it license.txt
 4.	Choose a license: GNU GENERAL PUBLIC LICENSE
 5.	Commit file into the master branch
+GitHub-course/license.png
  
 ###Create a Gitignore
 1.	Go to the repository
