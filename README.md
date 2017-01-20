@@ -71,36 +71,36 @@ Internet hosting service for git repositories, work on multiple computers, worki
 2. 	copy the URL link of the image, either from the red or from within github 
 3.	puting the image in () after the text: ![Alt text]
 
-###How to use in Peregre
+###How to use in Peregrine
 1.Create account on github
 2.create repository 
 3.go onto terminal and onto peregrine 
-ssh f111552@peregrine.hpc.rug.nl
-module load git
-git clone https://github.com/gabrielamg24/SST.git
-cd SST
-git add --all :/
-git config --global user.mail "gabrielamg24@gmail.com"
-git config --global user.name "gabrielamg24"
-git commit -m "MESSAGE"
-git push
-git pull
-SST git status
+>ssh f111552@peregrine.hpc.rug.nl
+>module load git
+>git clone https://github.com/gabrielamg24/SST.git
+>cd SST
+>git add --all :/
+>git config --global user.mail "gabrielamg24@gmail.com"
+>git config --global user.name "gabrielamg24"
+>git commit -m "MESSAGE"
+>git push
+>git pull
+>SST git status
 -When you go to github and create a new file then you go back to your terminal and 
-git commit -m "MESSAGE"
-git pull
+>git commit -m "MESSAGE"
+>git pull
 -On the github webpage you request to be a collaborator, once you have received the mail and accepted the invitation then you can go to your terminal and clone it, then pull it, then edit, then push it. 
-git clone https://github.com/Lumphie/Fairytale_test.git
-cd Fairytale_test
-git pull
+>git clone https://github.com/Lumphie/Fairytale_test.git
+>cd Fairytale_test
+>git pull
 -Edit the files from your computer
-git push 
+>git push 
 -On github create a license https://help.github.com/articles/adding-a-license-to-a-repository/ and a gitignore https://help.github.com/articles/ignoring-files/ , these were created in a branch and not in the master branch, soooo go to terminal 
-git pull
-git checkout  gabrielamg24-patch-1
-ll (to check files are there) 
-git checkout master
-ll
-git merge gabrielamg24-patch-1 (from the master branch you ask to merge with the branch with the files so they’re copied into master)
-ll 
+>git pull
+>git checkout  gabrielamg24-patch-1
+>ll (to check files are there) 
+>git checkout master
+>ll
+>git merge gabrielamg24-patch-1 (from the master branch you ask to merge with the branch with the files so they’re copied into master)
+>ll 
 
