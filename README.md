@@ -60,6 +60,7 @@ Internet hosting service for git repositories, work on multiple computers, worki
 
 ![Alt text](https://github.com/gabrielamg24/GitHub-course/blob/images/stars.png)
 
+
 ###How to use 
 1.Create account on github
 2.create repository 
