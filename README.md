@@ -58,7 +58,7 @@ Internet hosting service for git repositories, work on multiple computers, worki
 1.	Go to an account or find a project
 2.	Click the little star
 
-![Alt text](https://github.com/gabrielamg24/GitHub-course/blob/images/stars.png)
+![Alt text](https://github.com/gabrielamg24/GitHub-course/blob/images/stars1.png)
 
 
 ###How to use 
